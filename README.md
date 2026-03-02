@@ -93,4 +93,4 @@ A Full Adder is implemented by cascading two Half Adders:
 - Truth tables
 - Calculations
 - Hardware implementation images
-- Lab documentation
+
