@@ -5,3 +5,6 @@
 <img width="1482" height="430" alt="full_adder_2" src="https://github.com/user-attachments/assets/23d74069-bc96-454d-8da3-5e319de61192" />
 <img width="905" height="519" alt="full_adder_simulation" src="https://github.com/user-attachments/assets/8bc59ece-4f9c-4ad3-821d-081fb3b1f783" />
 
+![half _adder_hardware](https://github.com/user-attachments/assets/e1ce79ab-7e83-41c4-8d92-d2a41901f61b)
+![full_adder_hardware](https://github.com/user-attachments/assets/02840ce4-2b90-4176-924f-6b39da07f7dd)
+
