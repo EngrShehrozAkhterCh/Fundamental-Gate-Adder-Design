@@ -74,6 +74,18 @@ A Full Adder is implemented by cascading two Half Adders:
 - Hardware verification of digital circuits
 
 ---
+---
+
+## 🔧 Hardware Implementation
+
+### Half Adder Circuit
+![Half Adder Circuit](images/half_adder.jpg)
+
+### Full Adder Circuit
+![Full Adder Circuit](images/full_adder.jpg)
+
+### Breadboard Setup
+![Breadboard Setup](images/breadboard_setup.jpg)
 
 ## 📂 Repository Contents
 - Circuit diagrams
