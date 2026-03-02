@@ -79,13 +79,14 @@ A Full Adder is implemented by cascading two Half Adders:
 ## 🔧 Hardware Implementation
 
 ### Half Adder Circuit
-![Half Adder Circuit](images/half_adder.jpg)
+<img width="1119" height="632" alt="half_adder" src="https://github.com/user-attachments/assets/59d3b1c4-114b-4d47-bedb-12964792a7b7" />
+
 
 ### Full Adder Circuit
-![Full Adder Circuit](images/full_adder.jpg)
+<img width="1119" height="624" alt="Full_adder" src="https://github.com/user-attachments/assets/43b8e876-2a37-4bc8-861b-95a28899f731" />
 
 ### Breadboard Setup
-![Breadboard Setup](images/breadboard_setup.jpg)
+![half _adder_hardware](https://github.com/user-attachments/assets/e1ce79ab-7e83-41c4-8d92-d2a41901f61b)
 
 ## 📂 Repository Contents
 - Circuit diagrams
